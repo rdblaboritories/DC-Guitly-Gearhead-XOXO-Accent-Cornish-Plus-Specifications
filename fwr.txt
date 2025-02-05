@@ -1,0 +1,6 @@
+Look up a wiring diagram for the happymodel ep2 expresslrs receiver
+Solder wires on with pins to connect to the Arduino
+Find and install the expresslrs library
+You may need to update the receiver through wifi to be on the same expresslrs version
+Bind the receiver to the transmitter
+Configure the mixer and outputs on the transmitter so that you can receive inputs from the switches and buttons
